@@ -6,11 +6,11 @@ Created on Nov 21, 2011
 '''
 
 import sys
+import re
 
 from yatk import ml
 from yatk.ml import svm
 from yatk.ml.svm import SVM as Classifier
-from collections import Counter
 
 sys.modules['ml'] = ml
 sys.modules['ml.svm'] = svm
@@ -283,11 +283,13 @@ if __name__ == '__main__':
 		words = args[0].split(' ')
 		sentence = []
 		for word in words:
-			sentence.append((word, tuple()))
-			
-		labeled = T.label(sentence)
-		for word in labeled:
-			pos = ''
+    word = re.sub('[^A-Za-zА-Яа-я0-9%$:\-,]+', '', word)
+    if (word):
+        sentence.append((word, tuple()))
+
+labeled = T.label(sentence)
+for word in labeled:
+    pos = ''
 			if len(word[2]):
 				pos = '.'.join(sorted(word[2]))
 			if pos:
