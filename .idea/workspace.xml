@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7607ae-61d3-4a0d-8914-04e168582e85" name="Default" comment="ww">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank_names.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banks.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyse.py" afterPath="$PROJECT_DIR$/analyse.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/morph.py" afterPath="$PROJECT_DIR$/morph.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -27,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analyse.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="analyse.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analyse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="320" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="885">
+            <state line="12" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.123006836" vertical-offset="0" max-vertical-offset="1224">
               <folding />
             </state>
           </provider>
@@ -39,7 +41,7 @@
       <file leaf-file-name="morph.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/morph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="285" column="63" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.0" vertical-offset="4275" max-vertical-offset="4560">
+            <state line="294" column="31" selection-start="9594" selection-end="9601" vertical-scroll-proportion="0.0" vertical-offset="4868" max-vertical-offset="5652">
               <folding />
             </state>
           </provider>
@@ -48,16 +50,16 @@
       <file leaf-file-name="mstparser.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Pyrus2/mstparser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1764">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="syntagrus.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="syntagrus.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/syntagrus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="27" selection-start="3294" selection-end="3298" vertical-scroll-proportion="-0.12975779" vertical-offset="2250" max-vertical-offset="3765">
+            <state line="145" column="60" selection-start="3200" selection-end="3200" vertical-scroll-proportion="0.0" vertical-offset="2610" max-vertical-offset="4608">
               <folding />
             </state>
           </provider>
@@ -81,9 +83,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/syntagrus.py" />
         <option value="$PROJECT_DIR$/morph.py" />
         <option value="$PROJECT_DIR$/analyse.py" />
-        <option value="$PROJECT_DIR$/syntagrus.py" />
       </list>
     </option>
   </component>
@@ -119,6 +121,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,7 +142,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,28 +309,32 @@
       <created>1391165635954</created>
       <updated>1391165635954</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ww">
+      <created>1391550379050</created>
+      <updated>1391550379050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1430" y="-4" width="1617" height="1055" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1359116" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4142705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11069182" sideWeight="0.67071825" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10992462" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -338,7 +344,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -351,18 +356,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/syntagrus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="17" selection-start="463" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="3840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/morph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="290" column="16" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0" vertical-offset="4350" max-vertical-offset="4530">
@@ -423,6 +416,13 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1200" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/morph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="294" column="31" selection-start="9594" selection-end="9601" vertical-scroll-proportion="0.0" vertical-offset="4868" max-vertical-offset="5652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Pyrus2/mstparser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
@@ -430,23 +430,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="63" selection-start="8165" selection-end="8165" vertical-scroll-proportion="0.0" vertical-offset="4275" max-vertical-offset="4560">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/syntagrus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="27" selection-start="3294" selection-end="3298" vertical-scroll-proportion="-0.12975779" vertical-offset="2250" max-vertical-offset="3765">
+        <state line="145" column="60" selection-start="3200" selection-end="3200" vertical-scroll-proportion="0.0" vertical-offset="2826" max-vertical-offset="4518">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analyse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="320" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="885">
+        <state line="12" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.123006836" vertical-offset="0" max-vertical-offset="1224">
           <folding />
         </state>
       </provider>

@@ -1,0 +1,819 @@
+Дельта S.m.nom.sg
+Дельты S.m.gen.sg
+Дельте S.m.dat.sg
+Дельту S.m.acc.sg
+Дельтой S.m.ins.sg
+Дельте S.m.prep.sg
+ 
+Дельты S.m.nom.pl
+Дельт S.m.gen.pl
+Дельтам S.m.dat.pl
+Дельты S.m.acc.pl
+Дельтами S.m.ins.pl
+Дельтах S.m.prep.pl
+ 
+Дельтабанк S.m.nom.sg
+Дельтабанка S.m.gen.sg
+Дельтабанку S.m.dat.sg
+Дельтабанк S.m.acc.sg
+Дельтбанком S.m.ins.sg
+Дельтбанке S.m.prep.sg
+ 
+Дельтабанки S.m.nom.pl
+Дельтабанков S.m.gen.pl
+Дельтабанкам S.m.dat.pl
+Дельтабанки S.m.acc.pl
+Дельтабанками S.m.ins.pl
+Дельтабанках S.m.prep.pl
+
+Дельта Банк S.m.nom.sg
+Дельта Банка S.m.gen.sg
+Дельта Банку S.m.dat.sg
+Дельта Банк S.m.acc.sg
+Дельта Банком S.m.ins.sg
+Дельта Банке S.m.prep.sg
+ 
+Дельта Банки S.m.nom.pl
+Дельта Банков S.m.gen.pl
+Дельта Банкам S.m.dat.pl
+Дельта Банки S.m.acc.pl
+Дельта Банками S.m.ins.pl
+Дельта Банках S.m.prep.pl
+
+Дельта-Банк S.m.nom.sg
+Дельта-Банка S.m.gen.sg
+Дельта-Банку S.m.dat.sg
+Дельта-Банк S.m.acc.sg
+Дельт-Банком S.m.ins.sg
+Дельт-Банке S.m.prep.sg
+ 
+Дельта-Банки S.m.nom.pl
+Дельта-Банков S.m.gen.pl
+Дельта-Банкам S.m.dat.pl
+Дельта-Банки S.m.acc.pl
+Дельта-Банками S.m.ins.pl
+Дельта-Банках S.m.prep.pl
+
+Дельта-банк S.m.nom.sg
+Дельта-банка S.m.gen.sg
+Дельта-банку S.m.dat.sg
+Дельта-банк S.m.acc.sg
+Дельт-банком S.m.ins.sg
+Дельт-банке S.m.prep.sg
+ 
+Дельта-банки S.m.nom.pl
+Дельта-банков S.m.gen.pl
+Дельта-банкам S.m.dat.pl
+Дельта-банки S.m.acc.pl
+Дельта-банками S.m.ins.pl
+Дельта-банках S.m.prep.pl
+
+ 
+Надра S.m.nom.sg
+Надры S.m.gen.sg
+Надре S.m.dat.sg
+Надру S.m.acc.sg
+Надрой S.m.ins.sg
+Надре S.m.prep.sg
+ 
+Надры S.m.nom.pl
+Надр S.m.gen.pl
+Надрам S.m.dat.pl
+Надры S.m.acc.pl
+Надрами S.m.ins.pl
+Надрах S.m.prep.pl
+
+Надра Банк S.m.nom.sg
+Надра БанкаS.m.gen.sg
+Надра Банку S.m.dat.sg
+Надра Банк S.m.acc.sg
+Надра Банком S.m.ins.sg
+Надра Банке S.m.prep.sg
+ 
+Надра Банки S.m.nom.pl
+Надра Банков S.m.gen.pl
+Надра Банкам S.m.dat.pl
+Надра Банки S.m.acc.pl
+Надра Банками S.m.ins.pl
+Надра Банках S.m.prep.pl
+
+Надрабанк S.m.nom.sg
+НадрабанкаS.m.gen.sg
+Надрабанку S.m.dat.sg
+Надрабанк S.m.acc.sg
+Надраббанком S.m.ins.sg
+Надрабанке S.m.prep.sg
+ 
+Надрабанки S.m.nom.pl
+Надрабанков S.m.gen.pl
+Надрабанкам S.m.dat.pl
+Надрабанки S.m.acc.pl
+Надрабанками S.m.ins.pl
+Надрабанках S.m.prep.pl
+
+Приватбанк S.m.nom.sg
+Приватбанка S.m.gen.sg
+Приватбанку S.m.dat.sg
+Приватбанк S.m.acc.sg
+Приватбанком S.m.ins.sg
+Приватбанке S.m.prep.sg
+ 
+Приватбанки S.m.nom.pl
+Приватбанков S.m.gen.pl
+Приватбанкам S.m.dat.pl
+Приватбанки S.m.acc.pl
+Приватбанками S.m.ins.pl
+Приватбанках S.m.prep.pl
+ 
+Приват S.m.nom.sg
+Привата S.m.gen.sg
+Привату S.m.dat.sg
+Приват S.m.acc.sg
+Приватом S.m.ins.sg
+Привате S.m.prep.sg
+ 
+Приваты S.m.nom.pl
+Приватов S.m.gen.pl
+Приватам S.m.dat.pl
+Приваты S.m.acc.pl
+Приватами S.m.ins.pl
+Приватах S.m.prep.pl
+ 
+Родовід S.m.nom.sg
+Родовіда, S.m.gen.sg
+Родовода S.m.gen.sg
+Родовіду S.m.dat.sg
+Родоводу S.m.dat.sg
+Родовід S.m.acc.sg
+Родовідом S.m.ins.sg
+Родоводом S.m.ins.sg
+Родовіді S.m.prep.sg
+Родоводі S.m.prep.sg
+ 
+Родовид S.m.nom.sg
+Родовида S.m.gen.sg
+Родовиду S.m.dat.sg
+Родовид S.m.acc.sg
+Родовидом S.m.ins.sg
+Родовиде S.m.prep.sg
+ 
+Родовіди S.m.nom.pl
+Родоводи S.m.nom.pl
+Родовідів S.m.gen.pl
+Родоводів S.m.gen.pl
+Родовідам S.m.dat.pl
+Родоводам S.m.dat.pl
+Родовіди S.m.acc.pl
+Родоводи S.m.acc.pl
+Родовідами S.m.ins.pl
+Родоводами S.m.ins.pl
+Родовідах S.m.prep.pl
+Родоводах S.m.prep.pl
+ 
+Родовиды S.m.nom.pl
+Родовидов S.m.gen.pl
+Родовидам S.m.dat.pl
+Родовиды S.m.acc.pl
+Родовидами S.m.ins.pl
+Родовидах S.m.prep.pl
+ 
+Форум S.m.nom.sg
+Форума S.m.gen.sg
+Форуму S.m.dat.sg
+Форум S.m.acc.sg
+Форумом S.m.ins.sg
+Форуме S.m.prep.sg
+ 
+Форумы S.m.nom.pl
+Форумов S.m.gen.pl
+Форумам S.m.dat.pl
+Форумы S.m.acc.pl
+Форумами S.m.ins.pl
+Форумах S.m.prep.pl
+ 
+ПУМБ S.m.nom.sg
+Пумба S.m.gen.sg
+Пумбу S.m.dat.sg
+ПУМБ S.m.acc.sg
+Пумбом S.m.ins.sg
+Пумбе S.m.prep.sg
+ 
+Пумбы S.m.nom.pl
+Пумбов S.m.gen.pl
+Пумбам S.m.dat.pl
+Пумбы S.m.acc.pl
+Пумбами S.m.ins.pl
+Пумбах S.m.prep.pl
+ 
+ВТБ S.m.nom.sg
+ВТБа S.m.gen.sg
+ВТБу S.m.dat.sg
+ВТБ S.m.acc.sg
+ВТБом S.m.ins.sg
+ВТБе S.m.prep.sg
+ 
+ВТБы S.m.nom.pl
+ВТБов S.m.gen.pl
+ВТБам S.m.dat.pl
+ВТБи S.m.acc.pl
+ВТБами S.m.ins.pl
+ВТБах S.m.prep.pl
+ 
+ВЭТЭБЭ S.m.nom.sg
+ВЭТЭБа S.m.gen.sg
+ВЭТЭБу S.m.dat.sg
+ВЭТЭБЭ S.m.acc.sg
+ВЭТЭБом S.m.ins.sg
+ВЭТЭБе S.m.prep.sg
+ 
+ВЭТЭБы S.m.nom.pl
+ВЭТЭБов S.m.gen.pl
+ВЭТЭБам S.m.dat.pl
+ВЭТЭБи S.m.acc.pl
+ВЭТЭБами S.m.ins.pl
+ВЭТЭБах S.m.prep.pl
+ 
+ВЕТЕБе S.m.nom.sg
+ВЕТЕБа S.m.gen.sg
+ВЕТЕБу S.m.dat.sg
+ВЕТЕБе S.m.acc.sg
+ВЕТЕБом S.m.ins.sg
+ВЕТЕБе S.m.prep.sg
+ 
+ВЕТЕБы S.m.nom.pl
+ВЕТЕБов S.m.gen.pl
+ВЕТЕБам S.m.dat.pl
+ВЕТЕБы S.m.acc.pl
+ВЕТЕБами S.m.ins.pl
+ВЕТЕБах S.m.prep.pl
+
+Внешторг S.m.nom.sg
+Внешторга S.m.gen.sg
+Внешторгу S.m.dat.sg
+Внешторг S.m.acc.sg
+Внешторгом S.m.ins.sg
+Внешторге S.m.prep.sg
+ 
+Внешторги S.m.nom.pl
+Внешторгов S.m.gen.pl
+Внешторгам S.m.dat.pl
+Внешторги S.m.acc.pl
+Внешторгами S.m.ins.pl
+Внешторгах S.m.prep.pl
+
+Внешторгбанк S.m.nom.sg
+Внешторгбанка S.m.gen.sg
+Внешторгбанку S.m.dat.sg
+Внешторгбанк S.m.acc.sg
+Внешторгбанком S.m.ins.sg
+Внешторгбанке S.m.prep.sg
+ 
+Внешторгбанки S.m.nom.pl
+Внешторгбанков S.m.gen.pl
+Внешторгбанкам S.m.dat.pl
+Внешторгбанки S.m.acc.pl
+Внешторгбанками S.m.ins.pl
+Внешторгбанках S.m.prep.pl
+
+Сбербанк S.m.nom.sg
+Сбербанка S.m.gen.sg
+Сбербанку S.m.dat.sg
+Сбербанк S.m.acc.sg
+Сбербанком S.m.ins.sg
+Сбербанке S.m.prep.sg
+ 
+Сбербанки S.m.nom.pl
+Сбербанков S.m.gen.pl
+Сбербанкам S.m.dat.pl
+Сбербанки S.m.acc.pl
+Сбербанками S.m.ins.pl
+Сбербанках S.m.prep.pl
+ 
+Сбер S.m.nom.sg
+Сбера S.m.gen.sg
+Сберу S.m.dat.sg
+Сбер S.m.acc.sg
+Сбером S.m.ins.sg
+Сбере S.m.prep.sg
+ 
+Сберы S.m.nom.pl
+Сберов S.m.gen.pl
+Сберам S.m.dat.pl
+Сберы S.m.acc.pl
+Сберами S.m.ins.pl
+Сберах S.m.prep.pl
+ 
+СБР S.m.nom.sg
+СБРа S.m.gen.sg
+СБРу S.m.dat.sg
+СБР S.m.acc.sg
+СБРом S.m.ins.sg
+СБРе S.m.prep.sg
+ 
+СБРы S.m.nom.pl
+СБРов S.m.gen.pl
+СБРам S.m.dat.pl
+СБРы S.m.acc.pl
+СБРами S.m.ins.pl
+СБРах S.m.prep.pl
+ 
+ЭСБЭЭР S.m.nom.sg
+Эсбээра S.m.gen.sg
+Эсбээру S.m.dat.sg
+ЭСБЭЭР S.m.acc.sg
+Эсбээром S.m.ins.sg
+Эсбээре S.m.prep.sg
+ 
+Эсбээры S.m.nom.pl
+Эсбээров S.m.gen.pl
+Эсбээрам S.m.dat.pl
+Эсбээры S.m.acc.pl
+Эсбээрами S.m.ins.pl
+Эсбээрах S.m.prep.pl
+ 
+ЭСЭР S.m.nom.sg
+Эсэра S.m.gen.sg
+Эсэру S.m.dat.sg
+ЭСЭР S.m.acc.sg
+Эсэром S.m.ins.sg
+Эсэре S.m.prep.sg
+ 
+Эсэры S.m.nom.pl
+Эсэров S.m.gen.pl
+Эсэрам S.m.dat.pl
+Эсэры S.m.acc.pl
+Эсэрами S.m.ins.pl
+Эсэрах S.m.prep.pl
+ 
+Альфа-Банк S.m.nom.sg
+Альфа-Банка S.m.gen.sg
+Альфа-Банку S.m.dat.sg
+Альфа-Банк S.m.acc.sg
+Альфа-Банком S.m.ins.sg
+Альфа-Банке S.m.prep.sg
+ 
+Альфа-Банки S.m.nom.pl
+Альфа-Банков S.m.gen.pl
+Альфа-Банкам S.m.dat.pl
+Альфа-Банки S.m.acc.pl
+Альфа-Банками S.m.ins.pl
+Альфа-Банках S.m.prep.pl
+ 
+Альфа Банк S.m.nom.sg
+Альфа Банка S.m.gen.sg
+Альфа Банку S.m.dat.sg
+Альфа Банк S.m.acc.sg
+Альфа Банком S.m.ins.sg
+Альфа Банке S.m.prep.sg
+ 
+Альфа Банки S.m.nom.pl
+Альфа Банков S.m.gen.pl
+Альфа Банкам S.m.dat.pl
+Альфа Банки S.m.acc.pl
+Альфа Банками S.m.ins.pl
+Альфа Банках S.m.prep.pl
+ 
+Альфа S.m.nom.sg
+Альфы S.m.gen.sg
+Альфе S.m.dat.sg
+Альфу S.m.acc.sg
+Альфой S.m.ins.sg
+Альфе S.m.prep.sg
+ 
+Альфы S.m.nom.pl
+Альфов S.m.gen.pl
+Альфам S.m.dat.pl
+Альфы S.m.acc.pl
+Альфами S.m.ins.pl
+Альфах S.m.prep.pl
+ 
+VAB S.m.nom.sg
+Vabа S.m.gen.sg
+Vabу S.m.dat.sg
+VAB S.m.acc.sg
+Vabом S.m.ins.sg
+Vabе S.m.prep.sg
+ 
+Vabы S.m.nom.pl
+Vabов S.m.gen.pl
+Vabам S.m.dat.pl
+Vabы S.m.acc.pl
+Vabами S.m.ins.pl
+Vabах S.m.prep.pl
+ 
+
+ВАБанк S.m.nom.sg
+ВАБанка S.m.gen.sg
+ВАБанку S.m.dat.sg
+ВАБанк S.m.acc.sg
+ВАБанком S.m.ins.sg
+ВАБанке S.m.prep.sg
+ 
+ВАБанкиS.m.nom.pl
+ВАБанков S.m.gen.pl
+ВАБанкам S.m.dat.pl
+ВАБанки S.m.acc.pl
+ВАБанками S.m.ins.pl
+ВАБанках S.m.prep.pl
+
+ 
+
+Ваб S.m.nom.sg
+Ваба S.m.gen.sg
+Вабу S.m.dat.sg
+Ваб S.m.acc.sg
+Вабом S.m.ins.sg
+Вабе S.m.prep.sg
+ 
+Вабы S.m.nom.pl
+Вабов S.m.gen.pl
+Вабам S.m.dat.pl
+Вабы S.m.acc.pl
+Вабами S.m.ins.pl
+Вабах S.m.prep.pl
+ 
+Виэйби S.m.nom.sg
+ 
+Ви эй би S.m.nom.sg
+
+Ви-эй-би S.m.nom.sg
+ 
+Виэй би S.m.nom.sg
+ 
+Ви эйби S.m.nom.sg
+ 
+Platinum Bank S.m.nom.sg
+Platinum Bankа S.m.gen.sg
+Platinum Bankу S.m.dat.sg
+Platinum Bank S.m.acc.sg
+Platinum Bankом S.m.ins.sg
+Platinum Bankе S.m.prep.sg
+ 
+Platinum Bankи S.m.nom.pl
+Platinum Bankов S.m.gen.pl
+Platinum Bankам S.m.dat.pl
+Platinum Bankи S.m.acc.pl
+Platinum Bankами S.m.ins.pl
+Platinum Bankах S.m.prep.pl
+
+Платинум Банк S.m.nom.sg
+Платинум Банка S.m.gen.sg
+Платинум Банку S.m.dat.sg
+Платинум Банк S.m.acc.sg
+Дельт Банком S.m.ins.sg
+Дельт Банке S.m.prep.sg
+ 
+Платинум Банки S.m.nom.pl
+Платинум Банков S.m.gen.pl
+Платинум Банкам S.m.dat.pl
+Платинум Банки S.m.acc.pl
+Платинум Банками S.m.ins.pl
+Платинум Банках S.m.prep.pl
+
+Платинум-Банк S.m.nom.sg
+Платинум-Банка S.m.gen.sg
+Платинум-Банку S.m.dat.sg
+Платинум-Банк S.m.acc.sg
+Дельт-Банком S.m.ins.sg
+Дельт-Банке S.m.prep.sg
+ 
+Платинум-Банки S.m.nom.pl
+Платинум-Банков S.m.gen.pl
+Платинум-Банкам S.m.dat.pl
+Платинум-Банки S.m.acc.pl
+Платинум-Банками S.m.ins.pl
+Платинум-Банках S.m.prep.pl
+
+Платинум-банк S.m.nom.sg
+Платинум-банка S.m.gen.sg
+Платинум-банку S.m.dat.sg
+Платинум-банк S.m.acc.sg
+Дельт-банком S.m.ins.sg
+Дельт-банке S.m.prep.sg
+ 
+Платинум-банки S.m.nom.pl
+Платинум-банков S.m.gen.pl
+Платинум-банкам S.m.dat.pl
+Платинум-банки S.m.acc.pl
+Платинум-банками S.m.ins.pl
+Платинум-банках S.m.prep.pl
+ 
+Platinum S.m.nom.sg
+Platinumа S.m.gen.sg
+Platinumу S.m.dat.sg
+Platinum S.m.acc.sg
+Platinumом S.m.ins.sg
+Platinumе S.m.prep.sg
+ 
+Platinumы S.m.nom.pl
+Platinumов S.m.gen.pl
+Platinumам S.m.dat.pl
+Platinumы S.m.acc.pl
+Platinumами S.m.ins.pl
+Platinumах S.m.prep.pl
+ 
+Платинум S.m.nom.sg
+Платинума S.m.gen.sg
+Платинуму S.m.dat.sg
+Платинум S.m.acc.sg
+Платинумом S.m.ins.sg
+Платинуме S.m.prep.sg
+ 
+Платинумы S.m.nom.pl
+Платинумов S.m.gen.pl
+Платинумам S.m.dat.pl
+Платинумы S.m.acc.pl
+Платинумами S.m.ins.pl
+Платинумах S.m.prep.pl
+ 
+Укрсиббанк S.m.nom.sg
+Укрсиббанка S.m.gen.sg
+Укрсиббанку S.m.dat.sg
+Укрсиббанк S.m.acc.sg
+Укрсиббанком S.m.ins.sg
+Укрсиббанке S.m.prep.sg
+ 
+Укрсиббанки S.m.nom.pl
+Укрсиббанков S.m.gen.pl
+Укрсиббанкам S.m.dat.pl
+Укрсиббанки S.m.acc.pl
+Укрсиббанками S.m.ins.pl
+Укрсиббанках S.m.prep.pl
+ 
+Укрсибанк S.m.nom.sg
+Укрсибанка S.m.gen.sg
+Укрсибанку S.m.dat.sg
+Укрсибанк S.m.acc.sg
+Укрсибанком S.m.ins.sg
+Укрсибанке S.m.prep.sg
+ 
+Укрсибанки S.m.nom.pl
+Укрсибанков S.m.gen.pl
+Укрсибанкам S.m.dat.pl
+Укрсибанки S.m.acc.pl
+Укрсибанками S.m.ins.pl
+Укрсибанках S.m.prep.pl
+
+
+
+Укрсиб S.m.nom.sg
+Укрсиба S.m.gen.sg
+Укрсибу S.m.dat.sg
+Укрсиб S.m.acc.sg
+Укрсибом S.m.ins.sg
+Укрсибе S.m.prep.sg
+ 
+Укрсибы S.m.nom.pl
+Укрсибов S.m.gen.pl
+Укрсибам S.m.dat.pl
+Укрсибы S.m.acc.pl
+Укрсибами S.m.ins.pl
+Укрсибах S.m.prep.pl
+ 
+Укрсибб S.m.nom.sg
+Укрсибба S.m.gen.sg
+Укрсиббу S.m.dat.sg
+Укрсибб S.m.acc.sg
+Укрсиббом S.m.ins.sg
+Укрсиббе S.m.prep.sg
+ 
+Укрсиббы S.m.nom.pl
+Укрсиббов S.m.gen.pl
+Укрсиббам S.m.dat.pl
+Укрсиббы S.m.acc.pl
+Укрсиббами S.m.ins.pl
+Укрсиббах S.m.prep.pl
+
+УС S.m.nom.sg
+Уса S.m.gen.sg
+Усу S.m.dat.sg
+УС S.m.acc.sg
+Усом S.m.ins.sg
+Усе S.m.prep.sg
+ 
+Усы S.m.nom.pl
+Усов S.m.gen.pl
+Усам S.m.dat.pl
+Усы S.m.acc.pl
+Усами S.m.ins.pl
+Усах S.m.prep.pl
+ 
+УЭС S.m.nom.sg
+Уэса S.m.gen.sg
+Уэсу S.m.dat.sg
+УЭС S.m.acc.sg
+Уэсом S.m.ins.sg
+Уэсе S.m.prep.sg
+ 
+Уэсы S.m.nom.pl
+Уэсов S.m.gen.pl
+Уэсам S.m.dat.pl
+Уэсы S.m.acc.pl
+Уэсами S.m.ins.pl
+Уэсах S.m.prep.pl
+ 
+Райффайзен Банк Аваль S.m.nom.sg
+Райффайзен Банк Аваля S.m.gen.sg
+Райффайзен Банк Авалю S.m.dat.sg
+Райффайзен Банк Аваль S.m.acc.sg
+Райффайзен Банк Авалем S.m.ins.sg
+Райффайзен Банк Авале S.m.prep.sg
+ 
+Райффайзен Банк Аваль S.m.nom.sg
+Райффайзен Банка Аваля S.m.gen.sg
+Райффайзен Банку Авалю S.m.dat.sg
+Райффайзен Банк Аваль S.m.acc.sg
+Райффайзен Банком Авалем S.m.ins.sg
+Райффайзен Банке Авале S.m.prep.sg
+ 
+Райффайзен Банк Аваль S.m.nom.sg
+Райффайзена Банка Аваля S.m.gen.sg
+Райффайзену Банку Авалю S.m.dat.sg
+Райффайзен Банк Аваль S.m.acc.sg
+Райффайзеном Банком Авалем S.m.ins.sg
+Райффайзене Банке Авале S.m.prep.sg
+ 
+Райфайзен Банк Аваль S.m.nom.sg
+Райфайзен Банк Аваля S.m.gen.sg
+Райфайзен Банк Авалю S.m.dat.sg
+Райфайзен Банк Аваль S.m.acc.sg
+Райфайзен Банк Авалем S.m.ins.sg
+Райфайзен Банк Авале S.m.prep.sg
+ 
+Райфайзен Банк Аваль S.m.nom.sg
+Райфайзен Банка Аваля S.m.gen.sg
+Райфайзен Банку Авалю S.m.dat.sg
+Райфайзен Банк Аваль S.m.acc.sg
+Райфайзен Банком Авалем S.m.ins.sg
+Райфайзен Банке Авале S.m.prep.sg
+ 
+Райфайзен Банк Аваль S.m.nom.sg
+Райфайзена Банка Аваля S.m.gen.sg
+Райфайзену Банку Авалю S.m.dat.sg
+Райфайзен Банк Аваль S.m.acc.sg
+Райфайзеном Банком Авалем S.m.ins.sg
+Райфайзене Банке Авале S.m.prep.sg
+
+Райффазен Банк Аваль S.m.nom.sg
+Райффазен Банк Аваля S.m.gen.sg
+Райффазен Банк Авалю S.m.dat.sg
+Райффазен Банк Аваль S.m.acc.sg
+Райффазен Банк Авалем S.m.ins.sg
+Райффазен Банк Авале S.m.prep.sg
+ 
+Райффазен Банк Аваль S.m.nom.sg
+Райффазен Банка Аваля S.m.gen.sg
+Райффазен Банку Авалю S.m.dat.sg
+Райффазен Банк Аваль S.m.acc.sg
+Райффазен Банком Авалем S.m.ins.sg
+Райффазен Банке Авале S.m.prep.sg
+ 
+Райффазен Банк Аваль S.m.nom.sg
+Райффазена Банка Аваля S.m.gen.sg
+Райффазену Банку Авалю S.m.dat.sg
+Райффазен Банк Аваль S.m.acc.sg
+Райффазеном Банком Авалем S.m.ins.sg
+Райффазене Банке Авале S.m.prep.sg
+
+
+Райффайзен S.m.nom.sg
+Райффайзена S.m.gen.sg
+Райффайзену S.m.dat.sg
+Райффайзен S.m.acc.sg
+Райффайзеном S.m.ins.sg
+Райффайзене S.m.prep.sg
+
+Райфайзен S.m.nom.sg
+Райфайзена S.m.gen.sg
+Райфайзену S.m.dat.sg
+Райфайзен S.m.acc.sg
+Райфайзеном S.m.ins.sg
+Райфайзене S.m.prep.sg
+
+ 
+Райфф S.m.nom.sg
+Райффа S.m.gen.sg
+Райффу S.m.dat.sg
+Райфф S.m.acc.sg
+Райффом S.m.ins.sg
+Райффе S.m.prep.sg
+ 
+Райф S.m.nom.sg
+Райфа S.m.gen.sg
+Райфу S.m.dat.sg
+Райф S.m.acc.sg
+Райфом S.m.ins.sg
+Райфе S.m.prep.sg
+ 
+Аваль S.m.nom.sg
+Аваля S.m.gen.sg
+Авалю S.m.dat.sg
+Аваль S.m.acc.sg
+Авалем S.m.ins.sg
+Авале S.m.prep.sg
+ 
+Райффайзены S.m.nom.pl
+Райффайзенов S.m.gen.pl
+Райффайзенам S.m.dat.pl
+Райффайзен S.m.acc.pl
+Райффайзенами S.m.ins.pl
+Райффайзенах S.m.prep.pl
+ 
+Райффазены S.m.nom.pl
+Райффазенов S.m.gen.pl
+Райффазенам S.m.dat.pl
+Райффазен S.m.acc.pl
+Райффазенами S.m.ins.pl
+Райффазенах S.m.prep.pl
+
+Райфайзены S.m.nom.pl
+Райфайзенов S.m.gen.pl
+Райфайзенам S.m.dat.pl
+Райфайзен S.m.acc.pl
+Райфайзенами S.m.ins.pl
+Райфайзенах S.m.prep.pl
+
+Райфазены S.m.nom.pl
+Райфазенов S.m.gen.pl
+Райфазенам S.m.dat.pl
+Райфазен S.m.acc.pl
+Райфазенами S.m.ins.pl
+Райфазенах S.m.prep.pl
+
+Райффы S.m.nom.pl
+Райффов S.m.gen.pl
+Райффам S.m.dat.pl
+Райффы S.m.acc.pl
+Райффами S.m.ins.pl
+Райффах S.m.prep.pl
+ 
+Райфы S.m.nom.pl
+Райфов S.m.gen.pl
+Райфам S.m.dat.pl
+Райфы S.m.acc.pl
+Райфами S.m.ins.pl
+Райфах S.m.prep.pl
+
+Авали S.m.nom.pl
+Авалей S.m.gen.pl
+Авалями S.m.dat.pl
+Авали S.m.acc.pl
+Авалями S.m.ins.pl
+Авалях S.m.prep.pl
+ 
+Ра-ффа-зен S.m.nom.sg
+Ра-ффа-зена S.m.gen.sg
+Ра-ффа-зену S.m.dat.sg
+Ра-ффа-зен S.m.acc.sg
+Ра-ффа-зеном S.m.ins.sg
+Ра-ффа-зене S.m.prep.sg
+
+Ра-ффа-зены S.m.nom.pl
+Ра-ффа-зенов S.m.gen.pl
+Ра-ффа-зенам S.m.dat.pl
+Ра-ффа-зены S.m.acc.pl
+Ра-ффа-зенами S.m.ins.pl
+Ра-ффа-зенах S.m.prep.pl
+
+ра-ффа-зен S.m.nom.sg
+ра-ффа-зена S.m.gen.sg
+ра-ффа-зену S.m.dat.sg
+ра-ффа-зен S.m.acc.sg
+ра-ффа-зеном S.m.ins.sg
+ра-ффа-зене S.m.prep.sg
+
+ра-ффа-зены S.m.nom.pl
+ра-ффа-зенов S.m.gen.pl
+ра-ффа-зенам S.m.dat.pl
+ра-ффа-зены S.m.acc.pl
+ра-ффа-зенами S.m.ins.pl
+ра-ффа-зенах S.m.prep.pl
+
+
+Рай-ффа-зен S.m.nom.sg
+Рай-ффа-зена S.m.gen.sg
+Рай-ффа-зену S.m.dat.sg
+Рай-ффа-зен S.m.acc.sg
+Рай-ффа-зеном S.m.ins.sg
+Рай-ффа-зене S.m.prep.sg
+
+Рай-ффа-зены S.m.nom.pl
+Рай-ффа-зенов S.m.gen.pl
+Рай-ффа-зенам S.m.dat.pl
+Рай-ффа-зены S.m.acc.pl
+Рай-ффа-зенами S.m.ins.pl
+Рай-ффа-зенах S.m.prep.pl
+
+Рай-ффа-зен S.m.nom.sg
+Рай-ффа-зена S.m.gen.sg
+Рай-ффа-зену S.m.dat.sg
+Рай-ффа-зен S.m.acc.sg
+Рай-ффа-зеном S.m.ins.sg
+Рай-ффа-зене S.m.prep.sg
+
+рай-ффа-зены S.m.nom.pl
+рай-ффа-зенов S.m.gen.pl
+рай-ффа-зенам S.m.dat.pl
+рай-ффа-зены S.m.acc.pl
+рай-ффа-зенами S.m.ins.pl
+рай-ффа-зенах S.m.prep.pl
