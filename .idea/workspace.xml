@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7607ae-61d3-4a0d-8914-04e168582e85" name="Default" comment="ww">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank_names.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banks.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyse.py" afterPath="$PROJECT_DIR$/analyse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/morph.py" afterPath="$PROJECT_DIR$/morph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MorphMapper.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/analyse.py" afterPath="$PROJECT_DIR$/MorphMapper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bank_names.py" afterPath="$PROJECT_DIR$/bank_names.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banks.txt" afterPath="$PROJECT_DIR$/banks.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="morph.iws" />
@@ -29,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analyse.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/analyse.py">
+      <file leaf-file-name="bank_names.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bank_names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.123006836" vertical-offset="0" max-vertical-offset="1224">
+            <state line="21" column="27" selection-start="470" selection-end="470" vertical-scroll-proportion="0.35193622" vertical-offset="69" max-vertical-offset="972">
               <folding />
             </state>
           </provider>
@@ -86,6 +86,7 @@
         <option value="$PROJECT_DIR$/syntagrus.py" />
         <option value="$PROJECT_DIR$/morph.py" />
         <option value="$PROJECT_DIR$/analyse.py" />
+        <option value="$PROJECT_DIR$/bank_names.py" />
       </list>
     </option>
   </component>
@@ -313,7 +314,11 @@
       <created>1391550379050</created>
       <updated>1391550379050</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ww">
+      <created>1391997917422</created>
+      <updated>1391997917422</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -324,7 +329,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4142705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10992462" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10992462" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -334,7 +339,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -356,6 +361,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/syntagrus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="60" selection-start="3200" selection-end="3200" vertical-scroll-proportion="0.0" vertical-offset="2610" max-vertical-offset="4608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/morph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="290" column="16" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0" vertical-offset="4350" max-vertical-offset="4530">
@@ -373,13 +385,6 @@
         <state line="26" column="17" selection-start="463" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="3840" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="23" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/morph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="290" column="16" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0" vertical-offset="4350" max-vertical-offset="4530">
@@ -395,20 +400,6 @@
     <entry file="file://$PROJECT_DIR$/syntagrus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="11" selection-start="587" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yatk/ml/svm.py">
@@ -437,9 +428,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analyse.py">
+    <entry file="file://$PROJECT_DIR$/bank_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.123006836" vertical-offset="0" max-vertical-offset="1224">
+        <state line="21" column="27" selection-start="470" selection-end="470" vertical-scroll-proportion="0.35193622" vertical-offset="69" max-vertical-offset="972">
           <folding />
         </state>
       </provider>

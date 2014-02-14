@@ -584,20 +584,6 @@ Platinumах S.m.prep.pl
 Укрсиббами S.m.ins.pl
 Укрсиббах S.m.prep.pl
 
-УС S.m.nom.sg
-Уса S.m.gen.sg
-Усу S.m.dat.sg
-УС S.m.acc.sg
-Усом S.m.ins.sg
-Усе S.m.prep.sg
- 
-Усы S.m.nom.pl
-Усов S.m.gen.pl
-Усам S.m.dat.pl
-Усы S.m.acc.pl
-Усами S.m.ins.pl
-Усах S.m.prep.pl
- 
 УЭС S.m.nom.sg
 Уэса S.m.gen.sg
 Уэсу S.m.dat.sg
