@@ -6,7 +6,6 @@ Created on Nov 21, 2011
 '''
 
 import sys
-import re
 
 from yatk import ml
 from yatk.ml import svm
@@ -285,24 +284,3 @@ if __name__ == '__main__':
             G.save('res/model/' + cat[0])
             del (G)
             print('{0}\t\t{1:.3f}%'.format(cat[0], results[0] * 100))
-
-    else:
-        T = Tagger()
-        words = args[0].split(' ')
-        sentence = []
-        for word in words:
-            if not word.istitle():
-                word = word.lower()
-            word = re.sub('[^A-Za-zА-Яа-я0-9%$:\-]+', '', word)
-            if (word and word not in ["-", ":", "%", "$"]):
-                sentence.append((word, tuple()))
-
-    labeled = T.label(sentence)
-    for word in labeled:
-        pos = ''
-        if len(word[2]):
-            pos = '.'.join(sorted(word[2]))
-        if pos:
-            print(word[0] + '\t' + word[1] + '.' + pos)
-        else:
-            print(word[0] + '\t' + word[1])

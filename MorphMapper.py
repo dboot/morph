@@ -18,24 +18,15 @@ if __name__ == "__main__":
 
         normalized = bank_names.replace_names(value.lower())
 
+        if (normalized[1].__len__() == 0):
+            continue
+
         words = normalized[0].split(' ')
 
         sentence = []
         for word in words:
-            if not word.istitle():
-                word = word.lower()
             word = re.sub('[^A-Za-zА-Яа-я0-9\-ёъь]+', '', word)
-            if (word and word not in ["-", ":", "%", "$"]):
-                sentence.append((word, tuple()))
-
-        if (normalized[1].__len__() == 0):
-            continue
-
-        if (re.search('\?\s*$', value)):
-            continue
-
-        if (sentence.__len__() > 14):
-            continue
+            sentence.append((word, tuple()))
 
         labeled = T.label(sentence)
 
@@ -46,10 +37,6 @@ if __name__ == "__main__":
 
             if word[2]:
                 morph = '.'.join(sorted(word[2]))
-            else:
-                morph = ''
-
-            if morph:
                 tags = word[1] + '.' + morph
             else:
                 tags = word[1]
